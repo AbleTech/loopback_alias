@@ -1,0 +1,6 @@
+#!/bin/bash
+for ((i=2;i<100;i++))
+do
+  echo "Adding loopback alias 127.0.0.$i"
+  sudo ifconfig lo0 alias 127.0.0.$i up
+done

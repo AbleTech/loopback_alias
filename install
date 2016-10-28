@@ -1,0 +1,5 @@
+echo "Copying loopback_alias to /usr/local/bin"
+sudo cp loopback_alias /usr/local/bin
+
+echo "Setting up LaunchDaemon"
+sudo cp nz.abletech.loopback_alias.plist /Library/LaunchDaemons
