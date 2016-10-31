@@ -19,3 +19,8 @@ Use the following additional command to apply the alias records on boot.
 ./install
 ```
 
+## Uninstall
+
+```
+sudo rm /Library/LaunchDaemons/nz.abletech.loopback_alias.plist
+```
