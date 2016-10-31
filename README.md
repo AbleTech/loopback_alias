@@ -9,7 +9,7 @@ cd lookback_alias
 ./lookback_alias
 ```
 
-You can then run `ipconfig` and you should see the 99 private alias records of 127.0.0.1-127.0.0.99.
+You can then run `ipconfig` and you should see the 20 private records of `127.0.0.1`-`127.0.0.20`.
 
 ## Installation
 
