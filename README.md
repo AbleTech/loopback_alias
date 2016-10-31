@@ -13,7 +13,7 @@ You can then run `ipconfig` and you should see the 20 private records of `127.0.
 
 ## Installation
 
-Use the following additional steps to install the lookback alias to apply the alias records on boot.
+Use the following additional command to apply the alias records on boot.
 
 ```
 ./install
